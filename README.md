@@ -81,6 +81,8 @@ netcat station-2 9000
 
 Trenutno imamo spojen *station-1* i *station-2* te možemo razmjenjivati poruke između njih.
 
+![Untitled](Sigurnost%20rac%CC%8Cunala%20i%20podataka%20c1f9c7ee25ad4f4ca71bc00e89366be1/Untitled.png)
+
 ### ARP spoof napad
 
 Slušanje prometa
@@ -114,6 +116,8 @@ tcpdump -X host station-1 and not arp
 ```
 
 Sada kad pošaljemo poruku možemo je vidjeti bez ostalih paketa.
+
+![Untitled](Sigurnost%20rac%CC%8Cunala%20i%20podataka%20c1f9c7ee25ad4f4ca71bc00e89366be1/Untitled%201.png)
 
 Prekid prometa (između *station-1* i *station-1*)
 
