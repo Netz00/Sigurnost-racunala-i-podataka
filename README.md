@@ -679,7 +679,7 @@ if __name__ == "__main__":
 
 ## Lab 4
 
-### 3.1 Digital signatures using public-key cryptography
+### 4.1 Digital signatures using public-key cryptography
 
 <aside>
 💡 Ovaj dio laboratorijske nastavlja i završava prošlu vježbu.
@@ -768,7 +768,7 @@ if __name__ == "__main__":
         print(f'Picture image_{ctr}.png: {"OK" if is_authentic else "NOK":<6}')
 ```
 
-### 3.2 Password-hashing(Part 1)
+### 4.2 Password-hashing(Part 1)
 
 <aside>
 💡 Ovaj dio laboratorijske započinje 4. laboratorijsku vježbu.
