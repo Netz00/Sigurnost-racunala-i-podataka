@@ -304,7 +304,7 @@ durdov_bozo sudo
 
 Pripadamo grupi `sudo` i imamo administratorske ovlasti :)
 
-### 4.2 Taking peek at password hashes
+### 4.2 Taking a peek at password hashes
 
 Zatim pomoću tih ovlasti odazimo u *etc/shadow direktorij* te krademo hasheve lozinki svih usera.
 
