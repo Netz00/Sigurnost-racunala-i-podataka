@@ -16,3 +16,5 @@
 [Lab 4 - **Public-key cryptography and password-hashing**](labs/Lab4-Public-keyCryptographyAndPassword-hashing.md)
 
 [Lab 5 - **Online and Offline Password Guessing Attacks**](labs/Lab5-OnlineAndOfflinePasswordGuessingAttack.md)
+
+[Lab 6 - **Linux permissions and ACLs**](labs/Lab6-LinuxPermissionsAndACLs.md)
